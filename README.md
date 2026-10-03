@@ -1,4 +1,4 @@
-# Cin-s-Anatomy
+# CIn's Anatomy
 
 ## $\textcolor{#C77DFF}{\text{➤ Objetivos}}$ 
 ## $\textcolor{#C77DFF}{\text{➤ Dificuldades}}$ 
