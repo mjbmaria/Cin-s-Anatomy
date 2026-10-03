@@ -1,2 +1,7 @@
 # Cin-s-Anatomy
-Projeto com objetivo de ganhar a SBESC. Retrata umnRobô com fuincionalidade hospitalar capaz de realizar o processo de triagem nos hospitais.
+
+## $\textcolor{#C77DFF}{\text{➤ Objetivos}}$ 
+## $\textcolor{#C77DFF}{\text{➤ Dificuldades}}$ 
+## $\textcolor{#C77DFF}{\text{➤ Aprendizado na pratica}}$
+## $\textcolor{#C77DFF}{\text{➤ Dificuldades}}$
+## $\textcolor{#C77DFF}{\text{➤ Conclusões}}$ 
