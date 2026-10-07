@@ -15,7 +15,6 @@ a triagem na criança enquanto gera distrações com intuito do momento ser leve
 
 Além disso, temos o propósito de aprender o uso de diferenciados microcontroladores, construção de sistemas integros e 
 adquirir experiências com hardware.
-## $\textcolor{#C77DFF}{\text{➤ Dificuldades}}$ 
 ## $\textcolor{#C77DFF}{\text{➤ Aprendizado na pratica}}$
 ## $\textcolor{#C77DFF}{\text{➤ Dificuldades}}$
 ## $\textcolor{#C77DFF}{\text{➤ Conclusões}}$ 
