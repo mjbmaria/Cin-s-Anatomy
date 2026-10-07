@@ -4,3 +4,4 @@ de uma pessoa para descobrir sua temperatura. Seu tipo de $\textcolor{#C77DFF}{\
 SDA(dado serial) e SCL(clock) — para conectar vários dispositivos a um único controlador).
 
 <img width="300" height="300" alt="center" src="https://github.com/user-attachments/assets/d8966d13-463c-401f-89e6-44a8f94f638d" />
+#
