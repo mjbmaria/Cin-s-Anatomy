@@ -8,6 +8,8 @@
 Por meio de uma interação lúdica e acolhedora, o robô conduz e automatiza a coleta dos dados de triagem da criança, 
 tornando o processo menos intimidante e reduzindo os atrasos causados pelo medo e pelo choro durante o atendimento
 
+## ⤷   $\textcolor{#D8B4FE}{\text{Atualmente estamos em 30% do projeto, focando na construção integra dos periféricos}}$ 
+
 ## $\textcolor{#C77DFF}{\text{➤ Objetivos}}$
 O principal objetivo do projeto é auxiliar profissionais da saúde durante o atendimento diario nos hospitais, focado
 principalmente em enfermeiros que tem uma carga horaria muito pesada. Além disso, a ideia principal é que o sistema realize
