@@ -18,6 +18,7 @@ A biblioteca disponivel é a **<SparkFun_GridEYE_Arduino_Library.h>**
 ##  $\textcolor{#C77DFF}{\text{MODO DE USO:}}$
 A principal ideia ao usar o sensor é percorrer a matriz de 8x8 gerada pela câmera, com o objetivo de obter uma maior precisão para 
 detecção da temperatura. Cada espaço da matriz representa um espaço a ser lido no ambiente fisico, ou seja, quanto mais funcionando,
-mais precisão temos. 
+mais precisão temos.
+
 Para detectar falhas de leitura o sensor conta com um mecanismo de interrupção que detecta quando pixel da câmera está com defeito,
 ou seja, podemos percorrer todos os pixels a fim de obter uma matriz que indica os pixels lidos.
