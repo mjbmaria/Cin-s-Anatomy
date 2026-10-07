@@ -5,14 +5,14 @@ SDA(dado serial) e SCL(clock) — para conectar vários dispositivos a um único
 
 <img width="300" height="300" alt="center" src="https://github.com/user-attachments/assets/d8966d13-463c-401f-89e6-44a8f94f638d" />
 
-#  $\textcolor{#C77DFF}{\text{APLICAÇÕES:}}$
+##  $\textcolor{#C77DFF}{\text{APLICAÇÕES:}}$
 O sensor seria usado com a finalidade de obter a temperatura da criança em tempo real. O sensor ele seria aclopado em um espaço do
 robô onde não impedisse a leitura da camerâ. 
 
-#  $\textcolor{#C77DFF}{\text{BIBLIOTECAS:}}$
+##  $\textcolor{#C77DFF}{\text{BIBLIOTECAS:}}$
 O sensor conta com uma biblioteca nativa e criada pelo fornecedor em ambientes de programação. As bibliotecas contém funções que
 auxiliam o uso do componente.
 
-#  $\textcolor{#C77DFF}{\text{MODO DE USO:}}$
+##  $\textcolor{#C77DFF}{\text{MODO DE USO:}}$
 A principal ideia ao usar o sensor é percorrer a matriz de 8x8 gerada pela câmera, com o objetivo de obter uma maior precisão para 
 detecção da temperatura. 
