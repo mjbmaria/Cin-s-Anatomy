@@ -12,6 +12,9 @@ tornando o processo menos intimidante e reduzindo os atrasos causados pelo medo 
 O principal objetivo do projeto é auxiliar profissionais da saúde durante o atendimento diario nos hospitais, focado
 principalmente em enfermeiros que tem uma carga horaria muito pesada. Além disso, a ideia principal é que o sistema realize
 a triagem na criança enquanto gera distrações com intuito do momento ser leve, tranquilo, interativo, engraçado e divertido.
+
+Além disso, temos o propósito de aprender o uso de diferenciados microcontroladores, construção de sistemas integros e 
+adquirir experiências com hardware.
 ## $\textcolor{#C77DFF}{\text{➤ Dificuldades}}$ 
 ## $\textcolor{#C77DFF}{\text{➤ Aprendizado na pratica}}$
 ## $\textcolor{#C77DFF}{\text{➤ Dificuldades}}$
