@@ -1,5 +1,4 @@
 # CIn's Anatomy
-
 ## ⤷   $\textcolor{#D8B4FE}{\text{Atualmente estamos focando na construção integra dos periféricos}}$ 
 
 > [!IMPORTANT]
